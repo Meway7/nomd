@@ -30,4 +30,5 @@
 ## 下一步
 
 - 初始化 Tauri 项目骨架
+- 基于 `docs/API_SPEC.md` 实现首批 command 与事件
 - 搭建 Markdown 编辑器 MVP（单栏编辑预览 + 代码块折叠）
